@@ -133,5 +133,9 @@ Good working knowledge
 ## Hobby
 I play guitar.
 
-## Source of this file
+## This document
+### online version
+[https://batdevis.github.io/cv/](https://batdevis.github.io/cv/)
+
+### source
 [https://github.com/batdevis/cv/blob/master/README.md](https://github.com/batdevis/cv/blob/master/README.md)
