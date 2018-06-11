@@ -10,9 +10,9 @@ Piove di Sacco, 12/06/2018
 * Driving licence: B 
 
 ## Social profiles
-* Linkedin: https://www.linkedin.com/in/devisbattisti/
-* Github: https://github.com/batdevis
-* Twitter: https://twitter.com/batdevis
+* Linkedin: [https://www.linkedin.com/in/devisbattisti/](https://www.linkedin.com/in/devisbattisti/)
+* Github: [https://github.com/batdevis](https://github.com/batdevis)
+* Twitter: [https://twitter.com/batdevis](https://twitter.com/batdevis)
 
 ## Summary
 I'm mostly a Ruby on Rails developer with 20 years of experience with different languages and environments. 
@@ -133,5 +133,5 @@ Good working knowledge
 ## Hobby
 I play guitar.
 
-## File source
-https://github.com/batdevis/cv/blob/master/README.md
+## Source of this file
+[https://github.com/batdevis/cv/blob/master/README.md](https://github.com/batdevis/cv/blob/master/README.md)
