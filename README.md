@@ -36,7 +36,7 @@ project design.
 
 ### January 2013 – January 2018
 #### Inventor and project lead of Songrid
-An app for musicians.
+An app for musicians: https://songrid.com
 
 ### February 2011 – December 2015
 #### Freelance
